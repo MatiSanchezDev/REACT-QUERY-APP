@@ -1,5 +1,11 @@
+import { Product } from './components/Product'
+import { ProductForm } from './components/ProductForm'
+
 export const App: React.FC = () => {
   return (
-    <h1>React Query</h1>
+    <>
+      <ProductForm />
+      <Product />
+    </>
   )
 }

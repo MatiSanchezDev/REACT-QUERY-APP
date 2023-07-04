@@ -1,25 +1,18 @@
 {
-    "products":[
-        {
-            "id": "1",
-            "name": "laptop",
-            "description": "laptop gaming",
-            "price": 250000,
-            "inStock": true
-        },
-        {
-            "id": "2",
-            "name": "mouse",
-            "description": "mouse gaming 3000 DPS, mayor agarre y super liviano",
-            "price": 9000,
-            "inStock": true
-        },
-        {
-            "id": "3",
-            "name": "monitor",
-            "description": "monitor gaming 29' pulgadas curvo full hd",
-            "price": 390000,
-            "inStock": true
-        }
-    ]
+  "products": [
+    {
+      "name": "juanito pc gamer",
+      "description": "la pc de juanito",
+      "price": "623",
+      "inStock": true,
+      "id": 1
+    },
+    {
+      "name": "mate",
+      "description": "dasdasa",
+      "price": "21202020",
+      "inStock": true,
+      "id": 2
+    }
+  ]
 }
